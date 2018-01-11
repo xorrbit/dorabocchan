@@ -1,0 +1,7 @@
+SystemID SNES
+001C20	w	u	0	WRAM	x
+001DA0	w	u	0	WRAM	y
+004CE0	w	h	0	WRAM	hp
+0000CA	w	u	0	WRAM	camx
+0000D0	w	u	0	WRAM	camy
+
